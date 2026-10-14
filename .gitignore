@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+product/
+data/
+*.zip
+*.sqlite
+*.tar.gz

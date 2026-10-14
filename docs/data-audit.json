@@ -1,0 +1,333 @@
+{
+  "quality": [
+    {
+      "table": "acquisition",
+      "rows": 120,
+      "nulls": 0
+    },
+    {
+      "table": "billing_monthly",
+      "rows": 283619,
+      "nulls": 0
+    },
+    {
+      "table": "churn",
+      "rows": 5533,
+      "nulls": 0
+    },
+    {
+      "table": "customers_current",
+      "rows": 24467,
+      "nulls": 0
+    },
+    {
+      "table": "dr_events",
+      "rows": 32,
+      "nulls": 0
+    },
+    {
+      "table": "experiment",
+      "rows": 4000,
+      "nulls": 0
+    },
+    {
+      "table": "programs",
+      "rows": 8480,
+      "nulls": 0
+    },
+    {
+      "table": "tickets",
+      "rows": 21269,
+      "nulls": 3638
+    }
+  ],
+  "reasons": [
+    {
+      "reason": "Bill shock",
+      "n": 1932
+    },
+    {
+      "reason": "Found cheaper rate",
+      "n": 1437
+    },
+    {
+      "reason": "Moving out of territory",
+      "n": 738
+    },
+    {
+      "reason": "Contract expired \u2014 no renewal",
+      "n": 715
+    },
+    {
+      "reason": "Poor service experience",
+      "n": 711
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2024-10-01",
+      "billed_customers": 706,
+      "revenue": 127672.16
+    },
+    {
+      "month": "2024-11-01",
+      "billed_customers": 1451,
+      "revenue": 281552.19
+    },
+    {
+      "month": "2024-12-01",
+      "billed_customers": 2207,
+      "revenue": 454659.01
+    },
+    {
+      "month": "2025-01-01",
+      "billed_customers": 3053,
+      "revenue": 638301.19
+    },
+    {
+      "month": "2025-02-01",
+      "billed_customers": 3863,
+      "revenue": 766839.11
+    },
+    {
+      "month": "2025-03-01",
+      "billed_customers": 4738,
+      "revenue": 884304.19
+    },
+    {
+      "month": "2025-04-01",
+      "billed_customers": 5648,
+      "revenue": 985761.21
+    },
+    {
+      "month": "2025-05-01",
+      "billed_customers": 6628,
+      "revenue": 1262054.7
+    },
+    {
+      "month": "2025-06-01",
+      "billed_customers": 7614,
+      "revenue": 1788930.23
+    },
+    {
+      "month": "2025-07-01",
+      "billed_customers": 8578,
+      "revenue": 2132587.55
+    },
+    {
+      "month": "2025-08-01",
+      "billed_customers": 9519,
+      "revenue": 2387042.18
+    },
+    {
+      "month": "2025-09-01",
+      "billed_customers": 10527,
+      "revenue": 2437725.59
+    },
+    {
+      "month": "2025-10-01",
+      "billed_customers": 11602,
+      "revenue": 2007900.62
+    },
+    {
+      "month": "2025-11-01",
+      "billed_customers": 12790,
+      "revenue": 2397116.31
+    },
+    {
+      "month": "2025-12-01",
+      "billed_customers": 14002,
+      "revenue": 2834272.33
+    },
+    {
+      "month": "2026-01-01",
+      "billed_customers": 15227,
+      "revenue": 3191534.15
+    },
+    {
+      "month": "2026-02-01",
+      "billed_customers": 16355,
+      "revenue": 3289675.38
+    },
+    {
+      "month": "2026-03-01",
+      "billed_customers": 17639,
+      "revenue": 3194537.95
+    },
+    {
+      "month": "2026-04-01",
+      "billed_customers": 18937,
+      "revenue": 3277969.71
+    },
+    {
+      "month": "2026-05-01",
+      "billed_customers": 20210,
+      "revenue": 3993127.55
+    },
+    {
+      "month": "2026-06-01",
+      "billed_customers": 21416,
+      "revenue": 4899155.24
+    },
+    {
+      "month": "2026-07-01",
+      "billed_customers": 22429,
+      "revenue": 5670692.67
+    },
+    {
+      "month": "2026-08-01",
+      "billed_customers": 23594,
+      "revenue": 6023261.22
+    },
+    {
+      "month": "2026-09-01",
+      "billed_customers": 24886,
+      "revenue": 5762623.64
+    }
+  ],
+  "churn": [
+    {
+      "month": "2024-10-01",
+      "n": 10
+    },
+    {
+      "month": "2024-11-01",
+      "n": 19
+    },
+    {
+      "month": "2024-12-01",
+      "n": 26
+    },
+    {
+      "month": "2025-01-01",
+      "n": 55
+    },
+    {
+      "month": "2025-02-01",
+      "n": 61
+    },
+    {
+      "month": "2025-03-01",
+      "n": 60
+    },
+    {
+      "month": "2025-04-01",
+      "n": 81
+    },
+    {
+      "month": "2025-05-01",
+      "n": 97
+    },
+    {
+      "month": "2025-06-01",
+      "n": 192
+    },
+    {
+      "month": "2025-07-01",
+      "n": 196
+    },
+    {
+      "month": "2025-08-01",
+      "n": 196
+    },
+    {
+      "month": "2025-09-01",
+      "n": 168
+    },
+    {
+      "month": "2025-10-01",
+      "n": 175
+    },
+    {
+      "month": "2025-11-01",
+      "n": 198
+    },
+    {
+      "month": "2025-12-01",
+      "n": 273
+    },
+    {
+      "month": "2026-01-01",
+      "n": 318
+    },
+    {
+      "month": "2026-02-01",
+      "n": 312
+    },
+    {
+      "month": "2026-03-01",
+      "n": 263
+    },
+    {
+      "month": "2026-04-01",
+      "n": 329
+    },
+    {
+      "month": "2026-05-01",
+      "n": 394
+    },
+    {
+      "month": "2026-06-01",
+      "n": 585
+    },
+    {
+      "month": "2026-07-01",
+      "n": 591
+    },
+    {
+      "month": "2026-08-01",
+      "n": 515
+    },
+    {
+      "month": "2026-09-01",
+      "n": 419
+    }
+  ],
+  "experiment": [
+    {
+      "test_group": "control",
+      "n": 2000,
+      "retained": 1871,
+      "rate": 0.9355
+    },
+    {
+      "test_group": "treatment",
+      "n": 2000,
+      "retained": 1910,
+      "rate": 0.955
+    }
+  ],
+  "channels": [
+    {
+      "channel": "Door-to-door",
+      "acquired": 4556,
+      "cac": 179.91
+    },
+    {
+      "channel": "Move-in",
+      "acquired": 4504,
+      "cac": 24.93
+    },
+    {
+      "channel": "Online",
+      "acquired": 11937,
+      "cac": 90.88
+    },
+    {
+      "channel": "Partner",
+      "acquired": 2986,
+      "cac": 122.31
+    },
+    {
+      "channel": "Referral",
+      "acquired": 6017,
+      "cac": 45.33
+    }
+  ],
+  "checks": {
+    "duplicate_customer_ids": 0,
+    "current_churn_overlap": 0,
+    "duplicate_billing_grain": 0,
+    "duplicate_experiment_ids": 0
+  }
+}
